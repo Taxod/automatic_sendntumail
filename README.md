@@ -1,6 +1,6 @@
 # automatic_sendntumail
-## Use NTU Mail to automicly send mail
-##Between random peroid send mail to somesone
+### Use NTU Mail to automicly send mail
+### Between random peroid send mail to somesone
 
 Agenda:
 1. Login
